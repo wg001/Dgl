@@ -1,0 +1,10 @@
+Cf-Ray: 3fa470969e5c93c6-SJC
+Content-Type: text/html
+Date: Mon, 12 Mar 2018 07:10:13 GMT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Location: https://doc.scrapy.org/robots.txt
+Server: cloudflare
+Set-Cookie: __cfduid=db33856ed1ebd381c40f6542daa0439281520838613; expires=Tue, 12-Mar-19 07:10:13 GMT; path=/; domain=.bb1bet.tech; HttpOnly
+Via: 1.1 06e94244570e30a89339ef5ac0f77650.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: bKrF9XfjI4NeDfLOPDdIxn3DLWDFyCAZj_MzrY6hS1XJ00nSt83sAg==
+X-Cache: Redirect from cloudfront
