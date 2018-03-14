@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+.localized
+/.idea
+*.out
+WeiboSpider/__pycache__/
+WeiboSpider/spiders/__pycache__/
