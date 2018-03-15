@@ -1,0 +1,30 @@
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=53b0ec12-835c-4ccd-b0c8-480e23b6c1c7", "text": "公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=235c9fd2-5c6a-4007-9ff5-b6b86bd1f33e", "text": "司法部办公厅关于遴选全国百家涉外法律服务示范机构的通知"}
+{"address": "#", "text": "山东省公证协会四届理事会第四次会议会议纪要"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=2e5a9075-cc53-466a-8a55-380dfbff0795", "text": "公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=49bc71f7-bd8c-4c90-856f-240f81fb92ac", "text": "公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=2127adb0-d63d-470b-928f-059e7bd809aa", "text": "山东省二〇一七年度公证机构和执业公证员公告名册"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=7d00df76-c1ac-4377-b687-5e322d21dfef", "text": "公告"}
+{"address": "#", "text": "关于在全省公证行业深入开展“两学一做”学习教育的通知"}
+{"address": "#", "text": "关于举办第二届山东省青年公证人讲坛的通知"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=cabc0527-bba9-45a0-a404-3762237b79a5", "text": "山东省司法厅公告  第111号"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=4a1e3030-385b-44f2-a6fa-715a6f8eecf3", "text": "公  告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=f582da92-7948-4d83-8ae9-d2c35461c06b", "text": "公 告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=64ef7351-572e-4ee2-855b-2c5123ea6cdb", "text": "山东省司法厅公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=6ef20304-cf76-4415-b1cb-e94cfe3cbd6e", "text": "关于召开省公证协会权益保障与会员福利委员会工作会议……"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=51ca5419-80ad-43ce-9c08-d417d4e3e9f5", "text": "关于召开省公证协会投诉处理与奖励惩戒委员会工作会议……"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=53b0ec12-835c-4ccd-b0c8-480e23b6c1c7", "text": "公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=235c9fd2-5c6a-4007-9ff5-b6b86bd1f33e", "text": "司法部办公厅关于遴选全国百家涉外法律服务示范机构的通知"}
+{"address": "#", "text": "山东省公证协会四届理事会第四次会议会议纪要"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=2e5a9075-cc53-466a-8a55-380dfbff0795", "text": "公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=49bc71f7-bd8c-4c90-856f-240f81fb92ac", "text": "公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=2127adb0-d63d-470b-928f-059e7bd809aa", "text": "山东省二〇一七年度公证机构和执业公证员公告名册"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=7d00df76-c1ac-4377-b687-5e322d21dfef", "text": "公告"}
+{"address": "#", "text": "关于在全省公证行业深入开展“两学一做”学习教育的通知"}
+{"address": "#", "text": "关于举办第二届山东省青年公证人讲坛的通知"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=cabc0527-bba9-45a0-a404-3762237b79a5", "text": "山东省司法厅公告  第111号"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=4a1e3030-385b-44f2-a6fa-715a6f8eecf3", "text": "公  告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=f582da92-7948-4d83-8ae9-d2c35461c06b", "text": "公 告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=64ef7351-572e-4ee2-855b-2c5123ea6cdb", "text": "山东省司法厅公告"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=6ef20304-cf76-4415-b1cb-e94cfe3cbd6e", "text": "关于召开省公证协会权益保障与会员福利委员会工作会议……"}
+{"address": "http://www.sdgzxh.org/NewsShow.aspx?id=51ca5419-80ad-43ce-9c08-d417d4e3e9f5", "text": "关于召开省公证协会投诉处理与奖励惩戒委员会工作会议……"}

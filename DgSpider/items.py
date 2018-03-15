@@ -11,6 +11,5 @@ import scrapy
 class DgspiderItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    title = scrapy.Field()
-    img = scrapy.Field()
-    price = scrapy.Field()
+    text = scrapy.Field()
+    address = scrapy.Field()
