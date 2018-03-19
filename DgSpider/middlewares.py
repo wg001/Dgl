@@ -4,8 +4,9 @@
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
-
-from scrapy import signals
+import redis
+from scrapy import signals, crawler
+from scrapy.utils.project import get_project_settings
 
 
 class DgspiderSpiderMiddleware(object):
@@ -101,3 +102,24 @@ class DgspiderDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+import random
+from scrapy import signals
+from DgSpider.settings import IPPOOL
+
+
+class MyproxiesSpiderMiddleware(object):
+
+    def __init__(self, ip=''):
+        self.ip = ip
+        pool = redis.ConnectionPool(host='localhost', port=6379, decode_responses=True)
+        self.r = redis.Redis(connection_pool=pool)
+        self.settings = ""
+
+    def process_request(self, request, spider):
+        settings = get_project_settings()
+        key = settings['REDIS_IP_KEY']
+        ipaddr = self.r.srandmember(key)
+        print("获取到的代理的ip地址：", ipaddr)
+        request.meta["proxy"] = ipaddr

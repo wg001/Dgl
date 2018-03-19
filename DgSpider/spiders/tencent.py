@@ -50,20 +50,28 @@ class TencentSpider(scrapy.Spider):
     # url = "http://category.dangdang.com/pg2-cp01.54.06.00.00.00.html"
     url = "http://www.sdgzxh.org/NewsList.aspx?CategoryTitle=%u901a%u77e5%u516c%u544a"
     domain = "http://www.sdgzxh.org/"
+    ip_proxy = "http://ip.filefab.com/index.php"
+    ip_proxy1 = "http://118.24.27.16/"
     page_s = 1
     page_total = None
 
     def start_requests(self):
-        yield Request(self.url, self.parse_other)
+        try:
+            yield Request(self.ip_proxy1, self.test_proxy)
+        except:
+            print("ffffffffffffffffffff")
         # yield from self.testfun()
-        print("llllllllllllllllllllllllllll")
-        print("2222222222222222222222222222")
 
     def parse(self, response):
         pass
 
     def testfun(self):
         print("askdfskdfasdf")
+        pass
+
+    def test_proxy(self, response):
+        print("---------------------------------")
+        print(response.text)
         pass
 
     def parse_other(self, response):
@@ -73,11 +81,8 @@ class TencentSpider(scrapy.Spider):
 
         postdata = dict()
         for inp in input:
-            print("!!!!!!!!!!!!!!!1")
             name = inp.xpath('./input[@type="hidden"]/@name').extract()
-            print(type(name))
             value = inp.xpath('./input[@type="hidden"]/@value').extract()
-            print(value)
             for k in range(len(name)):
                 postdata[name[k]] = value[k]
         print(postdata)

@@ -15,6 +15,11 @@
 {"address": "http://www.sdgzxh.org/NewsShow.aspx?id=51ca5419-80ad-43ce-9c08-d417d4e3e9f5", "text": "关于召开省公证协会投诉处理与奖励惩戒委员会工作会议……"}
 {"address": "http://www.sdgzxh.org/NewsShow.aspx?id=53b0ec12-835c-4ccd-b0c8-480e23b6c1c7", "text": "公告"}
 {"address": "http://www.sdgzxh.org/NewsShow.aspx?id=235c9fd2-5c6a-4007-9ff5-b6b86bd1f33e", "text": "司法部办公厅关于遴选全国百家涉外法律服务示范机构的通知"}
+
+
+
+
+
 {"address": "#", "text": "山东省公证协会四届理事会第四次会议会议纪要"}
 {"address": "http://www.sdgzxh.org/NewsShow.aspx?id=2e5a9075-cc53-466a-8a55-380dfbff0795", "text": "公告"}
 {"address": "http://www.sdgzxh.org/NewsShow.aspx?id=49bc71f7-bd8c-4c90-856f-240f81fb92ac", "text": "公告"}
